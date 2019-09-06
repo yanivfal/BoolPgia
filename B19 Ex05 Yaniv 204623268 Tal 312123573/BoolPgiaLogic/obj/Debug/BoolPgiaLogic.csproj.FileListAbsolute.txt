@@ -1,0 +1,6 @@
+C:\Users\yaniv falik\source\repos\B19 Ex05 Yaniv 204623268 Tal 312123573\BoolPgiaLogic\bin\Debug\BoolPgiaLogic.dll
+C:\Users\yaniv falik\source\repos\B19 Ex05 Yaniv 204623268 Tal 312123573\BoolPgiaLogic\bin\Debug\BoolPgiaLogic.pdb
+C:\Users\yaniv falik\source\repos\B19 Ex05 Yaniv 204623268 Tal 312123573\BoolPgiaLogic\obj\Debug\BoolPgiaLogic.csprojAssemblyReference.cache
+C:\Users\yaniv falik\source\repos\B19 Ex05 Yaniv 204623268 Tal 312123573\BoolPgiaLogic\obj\Debug\BoolPgiaLogic.csproj.CoreCompileInputs.cache
+C:\Users\yaniv falik\source\repos\B19 Ex05 Yaniv 204623268 Tal 312123573\BoolPgiaLogic\obj\Debug\BoolPgiaLogic.dll
+C:\Users\yaniv falik\source\repos\B19 Ex05 Yaniv 204623268 Tal 312123573\BoolPgiaLogic\obj\Debug\BoolPgiaLogic.pdb
